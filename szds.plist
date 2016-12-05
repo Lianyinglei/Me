@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>下载时的图片</string>
+					<string>https://githu.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yoxnet.dsdl</string>
+				<string>com.yoxnet.szds</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
